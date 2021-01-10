@@ -17,7 +17,7 @@ Awesome products that have significant annual revenue of 7-figures or close, and
 - [Gumroad](https://gumroad.com/) - payment processing for creators ($5M ARR, funded but bought the equity back)
 - [Hubstaff](https://hubstaff.com/) - employee time tracking ($2.5M ARR)
 - [JetBrains](https://www.jetbrains.com/) - Developer tools ($270M ARR)
-- [Jitbit](https://www.jtibit.com/) - Help desk app ($3M ARR)
+- [Jitbit](https://www.jitbit.com/) - Help desk app ($3M ARR)
 - [Jivo Chat](https://www.jivochat.com/) - Live chat widget for websites ($7.5M ARR)
 - [Less Annoying Crm](https://www.lessannoyingcrm.com/) - SaaS CRM ($2.5M)
 - [LiveAgent](https://www.ladesk.com/)- Help desk app ($4M ARR)
